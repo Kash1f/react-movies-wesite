@@ -2,6 +2,9 @@ h1{
     margin: 0;
   }
   
-  .header{
-    background-color: gray;
-  }
+.header{
+    background-color: rgb(23, 32, 135);
+    padding: 8px;
+    color: white;
+}
+
