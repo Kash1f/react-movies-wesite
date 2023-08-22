@@ -10,8 +10,22 @@ function App() {
     <div className="App">
       <Header/>
       <div className='main'>
-      <Movie/>
+        {
+          movies.map((element)=> {
+          return(
+        
+      <Movie
+
+        title={element.Title}
+        year={element.Year}
+        img={element.Poster}
       
+      
+      
+      />
+      )
+  })
+}
       </div>
       </div>
     </>
