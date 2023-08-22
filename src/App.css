@@ -37,3 +37,10 @@
   }
 }
 
+.main{
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  padding: 14px;
+  justify-content: center;
+}
