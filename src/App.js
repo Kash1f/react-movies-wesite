@@ -13,15 +13,10 @@ function App() {
         {
           movies.map((element)=> {
           return(
-        
       <Movie
-
         title={element.Title}
         year={element.Year}
         img={element.Poster}
-      
-      
-      
       />
       )
   })
