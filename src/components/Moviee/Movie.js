@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 
-const Movie = () => {
+const Movie = (props) => {
   return (
     <div className='movie'>
       

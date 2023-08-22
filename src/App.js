@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header/Header'
-import Movie from './components/Moviee/Movie'
+import Header from './components/Header/Header';
+import Movie from './components/Moviee/Movie';
+import movies from './movie.json'
 
 function App() {
   return (
