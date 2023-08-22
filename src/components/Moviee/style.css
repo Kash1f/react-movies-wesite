@@ -6,4 +6,10 @@
     padding: 3px;
     font-weight: bold;
     text-align: start;
+    width: 22%;
+}
+
+.movie img{
+    height: 200px;
+    width: 100%;
 }
