@@ -17,7 +17,7 @@ function App() {
         title={element.Title}
         year={element.Year}
         img={element.Poster}
-      />
+        />
       )
   })
 }
