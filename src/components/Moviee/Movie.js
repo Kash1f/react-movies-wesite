@@ -8,8 +8,6 @@ const Movie = (props) => {
       <img src={props.img} alt='' />
       <p>{props.title}</p>
       <p>{props.year}</p>
-
-
     </div>
   )
 }
